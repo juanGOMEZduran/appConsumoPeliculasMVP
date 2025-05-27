@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ApiConsumePeliculas</string>
+    <string name="backdrop_description">Backdrop de la película</string>
+    <string name="poster_description">Póster de la película</string>
+    <string name="overview">Sinopsis</string>
+    <string name="genres">Géneros</string>
+    <string name="budget">Presupuesto</string>
+    <string name="revenue">Ingresos</string>
+    <string name="status">Estado</string>
+    <string name="production_companies">Compañías de producción</string>
+</resources>
